@@ -1,0 +1,120 @@
+{
+  "creator": {
+    "name":"Pierre Olivier",
+    "tag":"@shine.science"
+  },
+  "format": {
+      "height":1080,
+      "width":1080,
+      "unit":"px"
+  },
+
+  "theme": [
+    {
+      "background_color":"#5190DD",
+      "text-main-color":"#FCFFFB",
+      "text-secondary-color":"#5AB2E5",
+      "button-color":"#04048B"
+    },
+    {
+      "palette": [
+        "#FCFFFB",
+        "#5090DD",
+        "#4C89D9",
+        "#5AB2E5",
+        "#04048B"
+      ]
+    },
+    {
+      "font": [
+        {
+          "font-size":"12pt"
+        }
+      ]
+    }
+  ],
+  "slideshow": [
+    {
+      "slide1": [
+        {
+          "display": true,
+          "main-text": "Some catchy title on slide 1 that should illustrate what to do.",
+          "numbering": true
+
+        }
+      ],
+      "slide2": [
+        {
+          "display": true,
+          "main-text": "Some text on slide 1 that should explains some concept.",
+          "numbering": true
+
+        }
+      ],
+      "slide3": [
+        {
+          "display": true,
+          "main-text": "Some text on slide 3 that gives more details.",
+          "numbering": true
+
+        }
+      ],
+      "slide4": [
+        {
+          "display": true,
+          "main-text": "Some text on slide 3 that gives more details.",
+          "numbering": true
+
+        }
+      ],
+      "slide5": [
+        {
+          "display": true,
+          "main-text": "Some text on slide 3 that gives more details.",
+          "numbering": true
+
+        }
+      ],
+      "slide6": [
+        {
+          "display": true,
+          "main-text": "Some text on slide 3 that gives more details.",
+          "numbering": true
+
+        }
+      ],
+      "slide7": [
+        {
+          "display": true,
+          "main-text": "Some text on slide 3 that gives more details.",
+          "numbering": true
+
+        }
+      ],
+      "slide8": [
+        {
+          "display": true,
+          "main-text": "Some text on slide 3 that gives more details.",
+          "numbering": true
+
+        }
+      ],
+      "slide9": [
+        {
+          "display": true,
+          "main-text": "Some text on slide 3 that gives more details.",
+          "numbering": true
+
+        }
+      ],
+      "slide10": [
+        {
+          "display": true,
+          "main-text": "Some text on slide 3 that gives more details.",
+          "numbering": true
+
+        }
+      ]
+    }
+  ]
+}
